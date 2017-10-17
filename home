@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <title>Black Friday Landing Page</title>
       <meta charset="utf-8">
-    <title>Landing Zero Free Bootstrap Theme with Video</title>
+    <title>ARE YOU READY FOR BLACK FRIDAY?</title>
     <meta name="description" content="This is a free Bootstrap landing page theme created for BootstrapZero. Feature video background and one page design." />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="generator" content="Codeply">
@@ -59,7 +59,7 @@
     <header id="first">
         <div class="header-content">
             <div class="inner">
-                <h1 class="cursive">Simple, One Page Design</h1>
+                <h1 class="cursive">ARE YOU READY FOR BLACK FRIDAY?</h1>
                 <h4>A free landing page theme with video background</h4>
                 <hr>
                 <a href="#video-background" id="toggleVideo" data-toggle="collapse" class="btn btn-primary btn-xl">Toggle Video</a> &nbsp; <a href="#one" class="btn btn-primary btn-xl page-scroll">Get Started</a>
