@@ -20,6 +20,10 @@
 <link href="http://assets.codecloudapp.com/sites/59e6108e6e6f6414754f0000/text/css/1469476408000/bootstrap.css" rel="stylesheet">
 <link href="http://assets.codecloudapp.com/sites/59e6108e6e6f6414754f0000/text/css/1469476408000/bootstrap-theme.min.css" rel="stylesheet">
 <link href="http://assets.codecloudapp.com/sites/59e6108e6e6f6414754f0000/text/css/1469476408000/bootstrap-theme.css" rel="stylesheet">
+<script src="//s3.amazonaws.com/kodekloud/sites/59e6108e6e6f6414754f0000/text/javascript/1469476410000/npm.js"></script>
+<script src="//s3.amazonaws.com/kodekloud/sites/59e6108e6e6f6414754f0000/text/javascript/1469476410000/bootstrap.min.js"></script>
+<script src="//s3.amazonaws.com/kodekloud/sites/59e6108e6e6f6414754f0000/text/javascript/1469476408000/bootstrap.js"></script>
+
 
 <link href="style.css" rel="stylesheet">
 
