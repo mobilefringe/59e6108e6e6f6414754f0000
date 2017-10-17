@@ -11,9 +11,13 @@
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="generator" content="Codeply">
-<link href="http://assets.codecloudapp.com/sites/59e6108e6e6f6414754f0000/text/css/1507827548000/animate.css" rel="stylesheet">    <link rel="stylesheet" href="//code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" />
+
+<link href="http://assets.codecloudapp.com/sites/59e6108e6e6f6414754f0000/text/css/1507827548000/animate.css" rel="stylesheet"> 
+<link rel="stylesheet" href="//code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" />
   
 <link href="http://assets.codecloudapp.com/sites/59e6108e6e6f6414754f0000/text/css/1469476408000/bootstrap.min.css" rel="stylesheet">
+
+<link href="http://assets.codecloudapp.com/sites/59e6108e6e6f6414754f0000/text/css/1469476408000/bootstrap.css" rel="stylesheet">
 
 <link href="style.css" rel="stylesheet">
 
