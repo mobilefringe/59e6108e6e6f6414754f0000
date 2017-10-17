@@ -5,13 +5,6 @@
 <script type="text/javascript" src="script.js"></script>
 <meta charset="UTF-8">
 <title>Title of the document</title>
-</head>
-
-<body>
-Content of the document......
-
-<div class="container-fluid main">
-
   <nav class="navbar navbar-default">
     <div class="container-fluid">
       <div class="navbar-header">
@@ -30,6 +23,14 @@ Content of the document......
       </div>
     </div>
   </nav>
+</head>
+
+<body>
+Content of the document......
+
+<div class="container-fluid main">
+
+
 
   <div id="myCarousel" class="carousel carousel-fade slide" data-ride="carousel" data-interval="3000">
     <div class="carousel-inner" role="listbox">
