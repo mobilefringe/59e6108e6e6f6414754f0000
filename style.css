@@ -95,20 +95,20 @@
   .carousel-fade .carousel-inner > .item.next,
   .carousel-fade .carousel-inner > .item.active.right {
     opacity: 0;
-   -moz-webkit-transform: translate3d(0, 0, 0);
+    -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
   }
   .carousel-fade .carousel-inner > .item.prev,
   .carousel-fade .carousel-inner > .item.active.left {
     opacity: 0;
-    -webkit-web-transform: translate3d(0, 0, 0);
+    -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
   }
   .carousel-fade .carousel-inner > .item.next.left,
   .carousel-fade .carousel-inner > .item.prev.right,
   .carousel-fade .carousel-inner > .item.active {
     opacity: 1;
-    -webkit-web-transform: translate3d(0, 0, 0);
+    -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
   }
 }
