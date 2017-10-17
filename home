@@ -13,7 +13,7 @@
     <meta name="generator" content="Codeply">
 <link href="http://assets.codecloudapp.com/sites/59e6108e6e6f6414754f0000/text/css/1507827548000/animate.css" rel="stylesheet">    <link rel="stylesheet" href="//code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" />
   
-  <link rel='stylesheet prefetch' href='http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css'>
+  <link rel='/bootstrap.min.css'>
 
 <link href="style.css" rel="stylesheet">
 
